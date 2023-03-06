@@ -3,13 +3,10 @@
 	border-radius: 5px;
 	background-color:black;
 	color: white;
-	padding: 15px 32px;
-	font-size: 16px;
-	cursor: pointer;
 }
 #btn:hover{
 	background-color: yellow;
 	color:black;
-	border-radius: 35px;
+	border-radius: 30px;
 }
 /* Your CSS Code here. */
